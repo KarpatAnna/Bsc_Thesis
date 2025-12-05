@@ -1,1 +1,3 @@
-# Thesis
+# Bsc Thesis
+
+APPLIKÁCIÓ FEJLESZTÉSE TPMS SZENZOR MÉRÉSÉHEZ
